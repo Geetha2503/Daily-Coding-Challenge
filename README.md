@@ -16,4 +16,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0041-first-missing-positive) |
+## Math
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0043-multiply-strings) |
+## String
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0043-multiply-strings) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
