@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0045-jump-game-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -33,10 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0045-jump-game-ii) |
 ## Greedy
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0045-jump-game-ii) |
 ## Recursion
 |  |
 | ------- |
