@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0050-powx-n) |
 ## String
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0050-powx-n) |
 ## Sorting
 |  |
 | ------- |
