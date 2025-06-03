@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0053-maximum-subarray) |
 ## Backtracking
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0053-maximum-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0033-search-in-rotated-sorted-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
