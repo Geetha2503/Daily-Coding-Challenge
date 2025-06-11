@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0059-spiral-matrix-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0059-spiral-matrix-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -85,4 +87,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
