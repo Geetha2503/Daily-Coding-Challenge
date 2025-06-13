@@ -90,4 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0059-spiral-matrix-ii) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0061-rotate-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
