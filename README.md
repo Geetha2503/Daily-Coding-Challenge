@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0071-simplify-path) |
 ## Simulation
 |  |
 | ------- |
@@ -123,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0067-add-binary) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
