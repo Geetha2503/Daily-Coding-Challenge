@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0084-largest-rectangle-in-histogram) |
 ## Backtracking
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0071-simplify-path) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0084-largest-rectangle-in-histogram) |
 ## Sliding Window
 |  |
 | ------- |
@@ -164,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0079-word-search) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
