@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0079-word-search) |
+| [0087-scramble-string](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0087-scramble-string) |
 ## Simulation
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0072-edit-distance) |
+| [0087-scramble-string](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0087-scramble-string) |
 ## Greedy
 |  |
 | ------- |
