@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0094-binary-tree-inorder-traversal) |
+| [0099-recover-binary-search-tree](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0099-recover-binary-search-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -202,15 +203,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0096-unique-binary-search-trees) |
+| [0099-recover-binary-search-tree](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0099-recover-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0096-unique-binary-search-trees) |
+| [0099-recover-binary-search-tree](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0099-recover-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0096-unique-binary-search-trees) |
+| [0099-recover-binary-search-tree](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->
