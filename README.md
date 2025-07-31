@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0090-subsets-ii) |
+| [0119-pascals-triangle-ii](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0119-pascals-triangle-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0115-distinct-subsequences) |
+| [0119-pascals-triangle-ii](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0119-pascals-triangle-ii) |
 ## Greedy
 |  |
 | ------- |
