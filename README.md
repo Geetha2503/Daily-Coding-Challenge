@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0119-pascals-triangle-ii](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0120-triangle) |
 ## Backtracking
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0115-distinct-subsequences) |
 | [0119-pascals-triangle-ii](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0120-triangle) |
 ## Greedy
 |  |
 | ------- |
