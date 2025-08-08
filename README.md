@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0119-pascals-triangle-ii](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0120-triangle) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -120,12 +121,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0115-distinct-subsequences) |
 | [0119-pascals-triangle-ii](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0120-triangle) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Greedy
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0055-jump-game) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Recursion
 |  |
 | ------- |
