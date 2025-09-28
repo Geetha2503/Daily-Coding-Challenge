@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0149-max-points-on-a-line) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0166-fraction-to-recurring-decimal) |
 ## Math
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0166-fraction-to-recurring-decimal) |
 ## String
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0166-fraction-to-recurring-decimal) |
 ## Simulation
 |  |
 | ------- |
