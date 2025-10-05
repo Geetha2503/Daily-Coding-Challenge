@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0169-majority-element) |
+| [0174-dungeon-game](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0174-dungeon-game) |
 ## Backtracking
 |  |
 | ------- |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0152-maximum-product-subarray) |
+| [0174-dungeon-game](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0174-dungeon-game) |
 ## Greedy
 |  |
 | ------- |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0130-surrounded-regions) |
+| [0174-dungeon-game](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0174-dungeon-game) |
 ## Linked List
 |  |
 | ------- |
