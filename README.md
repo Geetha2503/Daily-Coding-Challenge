@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0190-reverse-bits) |
 ## Matrix
 |  |
 | ------- |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0187-repeated-dna-sequences) |
+| [0190-reverse-bits](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0190-reverse-bits) |
 ## Stack
 |  |
 | ------- |
