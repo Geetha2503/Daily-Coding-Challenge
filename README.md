@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0206-reverse-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0148-sort-list) |
+| [0206-reverse-linked-list](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
