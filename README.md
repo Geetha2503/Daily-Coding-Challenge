@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0187-repeated-dna-sequences) |
+| [0208-implement-trie-prefix-tree](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0208-implement-trie-prefix-tree) |
 ## Math
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0187-repeated-dna-sequences) |
+| [0208-implement-trie-prefix-tree](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0208-implement-trie-prefix-tree) |
 ## Simulation
 |  |
 | ------- |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0140-word-break-ii) |
+| [0208-implement-trie-prefix-tree](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0208-implement-trie-prefix-tree) |
 ## Memoization
 |  |
 | ------- |
@@ -460,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0173-binary-search-tree-iterator) |
+| [0208-implement-trie-prefix-tree](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0208-implement-trie-prefix-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
