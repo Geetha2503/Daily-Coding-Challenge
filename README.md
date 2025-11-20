@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0209-minimum-size-subarray-sum) |
 ## Backtracking
 |  |
 | ------- |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0209-minimum-size-subarray-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0187-repeated-dna-sequences) |
+| [0209-minimum-size-subarray-sum](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0209-minimum-size-subarray-sum) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -517,4 +520,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0207-course-schedule) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
