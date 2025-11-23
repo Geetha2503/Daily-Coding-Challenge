@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0212-word-search-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0212-word-search-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0212-word-search-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0212-word-search-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -458,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0212-word-search-ii) |
 ## Memoization
 |  |
 | ------- |
