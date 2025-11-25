@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0212-word-search-ii) |
+| [0214-shortest-palindrome](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0214-shortest-palindrome) |
 ## Simulation
 |  |
 | ------- |
@@ -522,10 +523,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0214-shortest-palindrome) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0214-shortest-palindrome) |
 ## Topological Sort
 |  |
 | ------- |
@@ -535,4 +538,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0209-minimum-size-subarray-sum) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
