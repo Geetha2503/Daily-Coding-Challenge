@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0216-combination-sum-iii) |
+| [0218-the-skyline-problem](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0218-the-skyline-problem) |
 ## Backtracking
 |  |
 | ------- |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0218-the-skyline-problem) |
 ## Binary Search
 |  |
 | ------- |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0218-the-skyline-problem) |
 ## Matrix
 |  |
 | ------- |
@@ -551,8 +554,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0218-the-skyline-problem) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0218-the-skyline-problem) |
+## Segment Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0218-the-skyline-problem) |
+## Line Sweep
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0218-the-skyline-problem) |
+## Ordered Set
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
