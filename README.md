@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0216-combination-sum-iii) |
 | [0218-the-skyline-problem](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0218-the-skyline-problem) |
+| [0219-contains-duplicate-ii](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0219-contains-duplicate-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0208-implement-trie-prefix-tree) |
+| [0219-contains-duplicate-ii](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0219-contains-duplicate-ii) |
 ## Math
 |  |
 | ------- |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0219-contains-duplicate-ii) |
 ## Depth-First Search
 |  |
 | ------- |
