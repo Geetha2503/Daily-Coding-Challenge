@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0216-combination-sum-iii) |
 | [0218-the-skyline-problem](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0220-contains-duplicate-iii) |
 ## Backtracking
 |  |
 | ------- |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0220-contains-duplicate-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0220-contains-duplicate-iii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -505,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0164-maximum-gap) |
+| [0220-contains-duplicate-iii](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0220-contains-duplicate-iii) |
 ## Radix Sort
 |  |
 | ------- |
@@ -578,4 +582,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
