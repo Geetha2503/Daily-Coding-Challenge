@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0189-rotate-array) |
+| [0224-basic-calculator](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0224-basic-calculator) |
 ## String
 |  |
 | ------- |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0214-shortest-palindrome) |
+| [0224-basic-calculator](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0224-basic-calculator) |
 ## Simulation
 |  |
 | ------- |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0224-basic-calculator) |
 ## Sorting
 |  |
 | ------- |
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0173-binary-search-tree-iterator) |
+| [0224-basic-calculator](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0224-basic-calculator) |
 ## Sliding Window
 |  |
 | ------- |
