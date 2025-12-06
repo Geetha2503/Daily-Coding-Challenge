@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0227-basic-calculator-ii) |
 ## String
 |  |
 | ------- |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0227-basic-calculator-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0225-implement-stack-using-queues) |
+| [0227-basic-calculator-ii](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0227-basic-calculator-ii) |
 ## Sliding Window
 |  |
 | ------- |
