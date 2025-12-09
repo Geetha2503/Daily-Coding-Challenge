@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0220-contains-duplicate-iii) |
 | [0221-maximal-square](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0229-majority-element-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0229-majority-element-ii) |
 ## Math
 |  |
 | ------- |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0220-contains-duplicate-iii) |
+| [0229-majority-element-ii](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0229-majority-element-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -534,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0229-majority-element-ii) |
 ## Iterator
 |  |
 | ------- |
