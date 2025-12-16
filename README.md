@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0234-palindrome-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0234-palindrome-linked-list) |
 ## Combinatorics
 |  |
 | ------- |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/Geetha2503/Daily-Coding-Challenge/tree/master/0234-palindrome-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
